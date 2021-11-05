@@ -1,0 +1,9 @@
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\obj\Debug\Grigalashvili_praqtikuli.FormBase.resources
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\obj\Debug\Grigalashvili_praqtikuli.Properties.Resources.resources
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\obj\Debug\Grigalashvili_praqtikuli.csproj.GenerateResource.cache
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\obj\Debug\Grigalashvili_praqtikuli.csproj.CoreCompileInputs.cache
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\bin\Debug\Grigalashvili_praqtikuli.exe.config
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\bin\Debug\Grigalashvili_praqtikuli.exe
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\bin\Debug\Grigalashvili_praqtikuli.pdb
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\obj\Debug\Grigalashvili_praqtikuli.exe
+C:\Users\TRINITY\source\repos\Grigalashvili_praqtikuli\Grigalashvili_praqtikuli\obj\Debug\Grigalashvili_praqtikuli.pdb
